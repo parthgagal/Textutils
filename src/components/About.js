@@ -12,7 +12,7 @@ export default function About() {
         setMystyle ({
             color:'white',
             backgroundColor: 'black',
-            border:'1px solid white',
+            border:'2px solid white',
         }) 
         setBtnText('Enable Light Mode')
     } else {
